@@ -1,0 +1,23 @@
+{
+  "employeeDetails":[
+  {
+		"id": "123",
+		"email": "kunal@gmail.com",
+		"phonenumber": "7896545698"
+	},
+	{
+		"id": "456",
+		"email": "munesh@gmail.com",
+		"phonenumber": "7474562356"
+	},
+	{
+		"id": "789",
+		"email": "nikhil@gmail.com",
+		"phonenumber": "0202020202"
+	}
+	
+	
+]
+
+
+}
